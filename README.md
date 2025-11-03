@@ -6,7 +6,7 @@ This project implements a real-time system for detecting and tracking facial att
 
 It integrates advanced features to leverage the efficiency of **Human-Computer Interaction (HCI)** applications, such as stable face ID assignment and an Age Locking Mechanism to prevent attribute flicker.
 
-
+---
 
 Features
 
